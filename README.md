@@ -1,18 +1,17 @@
 # ruasjalantelegrambot
 
-@Ruasjalanbot is bot to sharing latest traffic jam
-you may upload pictures/photo , video or Voice through telegram,
-the result will displayed on http://ruasjalan.com
+@Ruasjalanbot ( http://telegram.me/ruasjalanbot ) is bot a to sharing latest traffic jam.
+You may upload pictures/photos , videos or Voices through telegram,
+the result will be displayed on http://ruasjalan.com
 
 I am using Telegrambot sdk here
 you should clone or download this code, before using ruasjalantelegrambot code
 https://github.com/irazasyed/telegram-bot-sdk
 
 
-
 I am using 2 apps here
-One will act role as webhook (Telegram will forward users request to here)
-the other ones will act role as database server (this apps will store/save images/video/audio uploaded by user)
+One will act role as a webhook (Telegram will forward users request to here)
+the other ones will act role as a web and database server (this apps will store/save images/video/audio uploaded by user)
 
 1. Webhook - Apps that connect telegram Api
 set weeb hook by doing this
