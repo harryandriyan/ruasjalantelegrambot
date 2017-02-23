@@ -50,7 +50,6 @@ lalu search @ruasjalanbot
 <h4><a target="_new" href="https://itunes.apple.com/en/app/telegram-messenger/id686449807?mt=8">Versi iOS Download disini</a></h4>
 <h4><a target="_new" href="https://www.microsoft.com/en-us/store/apps/telegram-messenger/9wzdncrdzhs0">Versi Windows Phone Download disini</a></h4>
 <p>Cara pengunaannya : Gunakan Apps Telegram Messenger , Add <a target="_new" href="http://telegram.me/ruasjalanBot">@ruasjalanbot</a> , kemudian ikuti instruksi yang tersedia</p>
-<script type="text/javascript" src="http://kumpulblogger.com/tl_widget.php?uid=1"></script>
 <p>&nbsp;</p>
 </div>
 
