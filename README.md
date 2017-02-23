@@ -21,7 +21,9 @@ https://api.telegram.org/botYOURTOKENHERE/setwebhook?url=https://yourhosted-weeb
 2. Webserver - Apps that will connect your hook apss to your database server
 
 Demo:
+
 1. open your telegram messenger, add @ruasjalanbot (http://telegram.me/ruasjalanbot), upload pictures
+
 2. see result at http://ruasjalan.com
 
 Developed By Kukuh TW (kukuhtw.com)
