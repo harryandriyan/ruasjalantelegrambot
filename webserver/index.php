@@ -31,7 +31,12 @@
 
  <div class="container">
   <div class="jumbotron">
-  <?php include("ads320x100.php"); ?>
+  <?php 
+  
+  //this is mycode adsense..you dont have to put ads here
+  //include("ads320x100.php"); 
+  
+  ?>
         <h1>TelegramBot <a target="_new" href="http://telegram.me/ruasjalanBot">@ruasjalanBot</a></h1>
 <p>RuasJalan.com adalah <a target="_new" href="http://telegram.me/ruasjalanBot">TelegramBot</a> 
 Tempat berbagi update situasi lalu lintas terkini melalui Suara / Video ataupun Photo.
@@ -106,7 +111,8 @@ $options = array(
 <?php
 	if ($every3post==3) {
 		$every3post=0;
-		include("ads320x100.php");	
+		//this is mycode adsense..you dont have to put ads here
+		//include("ads320x100.php");	
 	}
 
 
@@ -119,7 +125,8 @@ $options = array(
 <center>RUASJALAN.COM</center>
 </div> <!-- container-->
 <p>&nbsp;</p>
-<?php include("ads320x100.php"); ?>
+
+
 <p>&nbsp;</p>
 
 </body>
